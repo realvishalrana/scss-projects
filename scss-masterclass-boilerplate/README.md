@@ -1,0 +1,1 @@
+It is boilerplate for projects
