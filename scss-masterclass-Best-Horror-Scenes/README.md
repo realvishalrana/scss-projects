@@ -1,4 +1,4 @@
-## To Clone:
+## Clone Of:
 
 - [x] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 

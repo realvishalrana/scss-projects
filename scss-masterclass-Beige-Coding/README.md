@@ -1,4 +1,4 @@
-# To Clone:
+# Clone Of:
 
 - [x] [https://beige.de/](https://beige.de/)
 ## Project :

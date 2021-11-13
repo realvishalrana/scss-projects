@@ -1,4 +1,4 @@
-## To Clone:
+## Clone Of:
 
 - [x] [https://paint-box.com/](https://paint-box.com/)
 
